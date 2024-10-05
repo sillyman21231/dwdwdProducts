@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Warzone Chat",
+        "link": "https://extinction.cc/product/Warzone/",
+        "status": "undetected",
+        "statusText": "Undetected / Working"
+    },
+    {
+        "name": "Perm Spoofer",
+        "link": "https://extinction.cc/product/Perm-Woof/",
+        "status": "working",
+        "statusText": "Working"
+    },
+    {
+        "name": "Temp Spoofer",
+        "link": "#",
+        "status": "down",
+        "statusText": "Down"
+    },
+    {
+        "name": "Fortnite Public",
+        "link": "#",
+        "status": "down",
+        "statusText": "Down"
+    }
+]
